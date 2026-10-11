@@ -1,0 +1,10 @@
+C:\Users\Xalid Shikhverdiyev\source\repos\DesktopApp8\DesktopApp8\bin\Debug\DesktopApp8.exe.config
+C:\Users\Xalid Shikhverdiyev\source\repos\DesktopApp8\DesktopApp8\bin\Debug\DesktopApp8.exe
+C:\Users\Xalid Shikhverdiyev\source\repos\DesktopApp8\DesktopApp8\bin\Debug\DesktopApp8.pdb
+C:\Users\Xalid Shikhverdiyev\source\repos\DesktopApp8\DesktopApp8\obj\Debug\DesktopApp8.csprojAssemblyReference.cache
+C:\Users\Xalid Shikhverdiyev\source\repos\DesktopApp8\DesktopApp8\obj\Debug\DesktopApp8.Form1.resources
+C:\Users\Xalid Shikhverdiyev\source\repos\DesktopApp8\DesktopApp8\obj\Debug\DesktopApp8.Properties.Resources.resources
+C:\Users\Xalid Shikhverdiyev\source\repos\DesktopApp8\DesktopApp8\obj\Debug\DesktopApp8.csproj.GenerateResource.cache
+C:\Users\Xalid Shikhverdiyev\source\repos\DesktopApp8\DesktopApp8\obj\Debug\DesktopApp8.csproj.CoreCompileInputs.cache
+C:\Users\Xalid Shikhverdiyev\source\repos\DesktopApp8\DesktopApp8\obj\Debug\DesktopApp8.exe
+C:\Users\Xalid Shikhverdiyev\source\repos\DesktopApp8\DesktopApp8\obj\Debug\DesktopApp8.pdb
